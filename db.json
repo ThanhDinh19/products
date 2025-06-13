@@ -1,7 +1,7 @@
 {
   "products": [
-    { "id": 1, "name": "Áo thun", "price": 100000 , "image": "image1.png"},
-    { "id": 2, "name": "Quần jean", "price": 200000 ,  "image": "image2.png"},
-    { "id": 3, "name": "Giày sneaker", "price": 150000 , "image": "image3.png"}
+    { "id": 1, "name": "Áo thun", "price": 100000 , "image": "assets/image/image1.png"},
+    { "id": 2, "name": "Quần jean", "price": 200000 ,  "image": "assets/image/image2.png"},
+    { "id": 3, "name": "Giày sneaker", "price": 150000 , "image": "assets/image/image3.png"}
   ]
 }
